@@ -7,7 +7,7 @@ Usando as strings de busca "jogo AND folclore" e "game AND folklore" no Portal P
 4. Review do jogo "Pamali: Indonesian Folklore Horror"; 
 5. Artigo "Using Games and Folklore to Extend Children's Literature"; 
 6. Artigo "JOGO COMO PATRIMÔNIO CULTURAL: MUSEUS DE BRINQUEDOS NO BRASIL"; 
-7. Artigo ["Examining Augmented Reality as a Platform for Situated Ethnography through the Lens of the ARIS Wisconsin Uprising Game"](TrabalhosRelacionados/ArtigoJogoARIS.PDF)
+7. Artigo ["Examining Augmented Reality as a Platform for Situated Ethnography through the Lens of the ARIS Wisconsin Uprising Game"](ArtigoJogoARIS.PDF)
 
 ## Das Demais Fontes de Informação Pertinentes
 Ademais, vale uma passada pelo material do [Museu do Brinquedo Popular, do IFRN](https://portal.ifrn.edu.br/campus/natalcidadealta/extensao/museu-do-brinquedo-popular).
